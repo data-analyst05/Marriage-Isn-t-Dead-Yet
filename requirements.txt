@@ -1,0 +1,6 @@
+Flask-SQLAlchemy
+splinter
+beautifulsoup4
+jsonify
+jsonlib
+requests
